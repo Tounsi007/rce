@@ -1,0 +1,11 @@
+<info>
+  <name>
+    <value><![CDATA[<script>confirm(document.domain)</script>]]></value>
+  </name>
+    <description>
+      <value>Some very interesting statistics about countries</value>
+    </description>
+    <url>
+      <value>http://google.com</value>
+    </url>  
+</info>
